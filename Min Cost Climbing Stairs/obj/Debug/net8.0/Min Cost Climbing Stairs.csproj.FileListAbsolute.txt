@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\bin\Debug\net8.0\Min Cost Climbing Stairs.exe
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\bin\Debug\net8.0\Min Cost Climbing Stairs.deps.json
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\bin\Debug\net8.0\Min Cost Climbing Stairs.runtimeconfig.json
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\bin\Debug\net8.0\Min Cost Climbing Stairs.dll
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\bin\Debug\net8.0\Min Cost Climbing Stairs.pdb
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\obj\Debug\net8.0\Min Cost Climbing Stairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\obj\Debug\net8.0\Min Cost Climbing Stairs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\obj\Debug\net8.0\Min Cost Climbing Stairs.AssemblyInfo.cs
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\obj\Debug\net8.0\Min Cost Climbing Stairs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\obj\Debug\net8.0\Min Cost Climbing Stairs.dll
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\obj\Debug\net8.0\refint\Min Cost Climbing Stairs.dll
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\obj\Debug\net8.0\Min Cost Climbing Stairs.pdb
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\obj\Debug\net8.0\Min Cost Climbing Stairs.genruntimeconfig.cache
+C:\Users\User\Desktop\vscode\leetcode\Min Cost Climbing Stairs\obj\Debug\net8.0\ref\Min Cost Climbing Stairs.dll

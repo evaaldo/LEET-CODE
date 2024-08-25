@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\bin\Debug\net8.0\Tribonacci.exe
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\bin\Debug\net8.0\Tribonacci.deps.json
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\bin\Debug\net8.0\Tribonacci.runtimeconfig.json
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\bin\Debug\net8.0\Tribonacci.dll
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\bin\Debug\net8.0\Tribonacci.pdb
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\obj\Debug\net8.0\Tribonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\obj\Debug\net8.0\Tribonacci.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\obj\Debug\net8.0\Tribonacci.AssemblyInfo.cs
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\obj\Debug\net8.0\Tribonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\obj\Debug\net8.0\Tribonacci.dll
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\obj\Debug\net8.0\refint\Tribonacci.dll
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\obj\Debug\net8.0\Tribonacci.pdb
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\obj\Debug\net8.0\Tribonacci.genruntimeconfig.cache
+C:\Users\User\Desktop\vscode\leetcode\Tribonacci\obj\Debug\net8.0\ref\Tribonacci.dll

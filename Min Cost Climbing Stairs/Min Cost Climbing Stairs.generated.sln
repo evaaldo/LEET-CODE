@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min Cost Climbing Stairs", "Min Cost Climbing Stairs.csproj", "{B99EADF6-5107-41DC-BE3D-960FC8CE0298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99EADF6-5107-41DC-BE3D-960FC8CE0298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99EADF6-5107-41DC-BE3D-960FC8CE0298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99EADF6-5107-41DC-BE3D-960FC8CE0298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99EADF6-5107-41DC-BE3D-960FC8CE0298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70F00BC7-538C-4787-850C-89BF7A664711}
+	EndGlobalSection
+EndGlobal

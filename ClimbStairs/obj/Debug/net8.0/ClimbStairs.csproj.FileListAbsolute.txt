@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\bin\Debug\net8.0\ClimbStairs.exe
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\bin\Debug\net8.0\ClimbStairs.deps.json
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\bin\Debug\net8.0\ClimbStairs.runtimeconfig.json
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\bin\Debug\net8.0\ClimbStairs.dll
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\bin\Debug\net8.0\ClimbStairs.pdb
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\obj\Debug\net8.0\ClimbStairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\obj\Debug\net8.0\ClimbStairs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\obj\Debug\net8.0\ClimbStairs.AssemblyInfo.cs
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\obj\Debug\net8.0\ClimbStairs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\obj\Debug\net8.0\ClimbStairs.dll
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\obj\Debug\net8.0\refint\ClimbStairs.dll
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\obj\Debug\net8.0\ClimbStairs.pdb
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\obj\Debug\net8.0\ClimbStairs.genruntimeconfig.cache
+C:\Users\User\Desktop\vscode\leetcode\ClimbStairs\obj\Debug\net8.0\ref\ClimbStairs.dll
